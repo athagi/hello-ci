@@ -4,7 +4,7 @@ phases:
   install:
     runtime-versions:
       golang: 1.14
-  test:
+  pre_build:
     commands:
       - make test
   build:
