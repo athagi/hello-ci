@@ -1,1 +1,5 @@
 # hello-ci
+
+![CodeBuild](https://codebuild.ap-northeast-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiNS9scVg0R0tZODd1WWRoYnZNaWF1K2YrUTdnME12SVM4Zm8wcktjRmFadzRNVXNrN0NQVlgzT3dWNFozVXFzalhSTUNzaUhGeUIzR3N2MWV3bkdMTXdjPSIsIml2UGFyYW1ldGVyU3BlYyI6ImY2eUVNWTNtQnowS003bDMiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
+
+各種CIを試してみる
